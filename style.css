@@ -9,3 +9,25 @@
 .navbar-brand {
   margin-left: 0.5rem;
 }
+
+.navbar-brand a {
+  margin-left: 0.5rem;
+}
+
+.superior-section h1{
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 0.1rem;
+}
+
+.space-top {
+  margin-top: 0.5rem;
+}
+
+.pad-top {
+  padding-top: 0.5rem; 
+}
+
+.pad-bottom {
+  padding-bottom: 0.5rem;
+}
