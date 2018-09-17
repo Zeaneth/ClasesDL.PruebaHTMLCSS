@@ -6425,7 +6425,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #008cba !important;
+  background-color: #008cba !important;/*#172586;*/
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6517,7 +6517,7 @@ button.bg-dark:focus {
 }
 
 .border-top {
-  border-top: 1px solid #dee2e6 !important;
+  border-top: 3px solid #dee2e6 !important; /*Previously 1px*/
 }
 
 .border-right {

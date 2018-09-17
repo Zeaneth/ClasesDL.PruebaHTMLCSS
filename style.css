@@ -1,5 +1,5 @@
 .logo {
-  max-width: 25%;
+  max-width: 8%;
 }
 
 .top-nav {
@@ -30,4 +30,14 @@
 
 .pad-bottom {
   padding-bottom: 0.5rem;
+}
+
+footer {
+  height: 22rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+#banner-title {
+  font-weight: bold;
 }
